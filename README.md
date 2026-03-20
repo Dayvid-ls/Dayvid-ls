@@ -32,7 +32,7 @@ Olá! Eu me chamo Dayvid Lima Santos, tenho 26 anos e sou natural de Belém (PA)
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-/> <img 
+<img 
     align="left" 
     alt="Java" 
     title="Java"
