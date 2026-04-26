@@ -1,6 +1,6 @@
 # 👨‍💻Dayvid Santos
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full Stack`**
 
 Olá! Eu me chamo Dayvid Lima Santos, tenho 26 anos e sou natural de Belém (PA), residindo atualmente no Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e um grande entusiasta da tecnologia. Hoje, foco meus estudos no desenvolvimento Front-end, dominando a criação de interfaces modernas, com a meta clara de evoluir minha carreira para me tornar um desenvolvedor Full Stack.
 
